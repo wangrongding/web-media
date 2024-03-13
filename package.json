@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "荣顶 <wangrongding@qq.com>",
+  "license": "ISC",
+  "repository": "https://github.com/wangrongding/web-media.git"
 }
