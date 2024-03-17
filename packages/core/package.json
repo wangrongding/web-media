@@ -1,0 +1,13 @@
+{
+  "name": "web-media",
+  "version": "0.0.1",
+  "description": "Web-based Audio and Video Processing Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "荣顶 <wangrongding@qq.com>",
+  "license": "ISC",
+  "repository": "https://github.com/wangrongding/web-media.git"
+}
