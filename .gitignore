@@ -6,4 +6,6 @@ posts/*
 # !posts/01-*.md
 # !posts/02-*.md
 
+demo
+
 *.log
